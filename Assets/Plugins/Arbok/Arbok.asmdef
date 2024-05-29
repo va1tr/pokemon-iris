@@ -1,0 +1,16 @@
+{
+    "name": "Arbok",
+    "rootNamespace": "Arbok",
+    "references": [
+        "GUID:5d42ff9e50c4b4d869311f4d68ac7c01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

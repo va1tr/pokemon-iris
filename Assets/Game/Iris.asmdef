@@ -1,0 +1,20 @@
+{
+    "name": "Iris",
+    "rootNamespace": "Iris",
+    "references": [
+        "GUID:5a479d8e134db4a64ad971018f38a86d",
+        "GUID:5d42ff9e50c4b4d869311f4d68ac7c01",
+        "GUID:bb72c7bdbd9ed470bb4c7ab3e59d4045",
+        "GUID:78abd19e92d334799a7392dbbb57929d",
+        "GUID:7e5b65fc8979f48efab58b1ff4b8d5a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
